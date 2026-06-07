@@ -56,7 +56,8 @@ Step 7: Compare the Results
 Compare original and generated images.
 Document differences and improvements.
 
-Output:
+Output:[Exp-7 Nithishkumar.pdf](https://github.com/user-attachments/files/28681388/Exp-7.Nithishkumar.pdf)
+
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
